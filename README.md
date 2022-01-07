@@ -1,1 +1,1 @@
-# angular-gradle-poc
+# ecom-ui
